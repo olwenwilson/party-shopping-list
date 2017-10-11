@@ -3,3 +3,4 @@ drinks.txt
 coke
 fanta
 lemonade
+beer
